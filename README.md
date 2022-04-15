@@ -17,4 +17,4 @@ Para esse projeto foram usadas duas tabelas, uma para os dados de usuários e ou
 2. Lançamento do foguete ocorre apenas se o mesmo estiver ativo, caso contrario lançamento e a contação de lucros não ocorre.
 
 # Execução
-1. Para executar a aplicação basta rodar ``npm install `` para dependências do projeto e ``npm run dev`` na pasta raiz em seu terminal para executar a aplicação.
+1. Para executar a aplicação basta rodar ``npm install`` para instalar as dependências do projeto e ``npm run dev`` para executar a aplicação.
