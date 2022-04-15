@@ -1,0 +1,47 @@
+.container{
+    width: 100%;
+    height: 100%;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cadBox{
+    width: 30%;
+    height: 30%;
+    padding: 15px;
+    background-color: #ccc;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputs{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 15px;
+    margin-top: 2%;
+}
+
+.btnconf{
+    margin-top: 2%;
+    width: 100%;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: rgb(75, 181, 67);
+    color: white;
+    font-weight: bold;
+}
+
+.btnconf:hover{
+    background-color: rgb(108, 184, 103);
+    color: white;
+}
